@@ -3,7 +3,7 @@ import page1View from '../views/page1View.vue'
 import subView from '../views/subView.vue'
 
 const router = createRouter({
-  history: createWebHistory('/homework3and4/'),
+  history: createWebHistory('/homework6/'),
   routes: [
     {
       path: '/',
