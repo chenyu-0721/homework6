@@ -12,7 +12,7 @@
         </button>
       </div>
     </div>
-    <div class="row row-cols-lg-3 row-cols-1">
+    <div class="row row-cols-lg-2 row-cols-xl-3 row-cols-">
       <div class="card article-card">
         <div class="card-body">
           <h5 class="card-title">食.</h5>
